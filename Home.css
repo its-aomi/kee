@@ -96,7 +96,7 @@
 }
 
 .u-section-2 .u-sheet-1 {
-  min-height: 807px;
+  min-height: 789px;
 }
 
 .u-section-2 .u-text-1 {
@@ -115,14 +115,13 @@
 }
 
 .u-section-2 .u-group-1 {
-  width: 270px;
-  min-height: 296px;
+  min-height: 270px;
   height: auto;
   transition-duration: 0.5s;
   box-shadow: -2px 0 0 0px rgba(0,0,0,0);
   text-shadow: 0px 0px 0px rgba(0,0,0,0);
-  transform: translateX(0px) translateY(0px) scale(1) rotate(0deg);
-  margin: 24px auto 0 0;
+  width: 270px;
+  margin: 33px 870px 0 0;
 }
 
 .u-section-2 .u-container-layout-1 {
@@ -137,17 +136,24 @@
 
 .u-section-2 .u-text-4 {
   text-decoration: underline !important;
-  margin: 10px 10px 0;
+  margin: 10px 10px 0 25px;
+}
+
+.u-section-2 .u-shape-1 {
+  width: 250px;
+  height: 250px;
+  transition-duration: 0.5s;
+  margin: -214px auto 0;
 }
 
 .u-section-2 .u-group-2 {
-  min-height: 296px;
+  min-height: 270px;
   height: auto;
   transition-duration: 0.5s;
   box-shadow: -2px 0 0 0px rgba(0,0,0,0);
   text-shadow: 0px 0px 0px rgba(0,0,0,0);
   width: 270px;
-  margin: -296px auto 0 290px;
+  margin: -270px auto 0 290px;
 }
 
 .u-section-2 .u-container-layout-2 {
@@ -162,17 +168,24 @@
 
 .u-section-2 .u-text-5 {
   text-decoration: underline !important;
-  margin: 10px 10px 0;
+  margin: 10px 10px 0 25px;
+}
+
+.u-section-2 .u-shape-2 {
+  width: 250px;
+  height: 250px;
+  transition-duration: 0.5s;
+  margin: -214px auto 0;
 }
 
 .u-section-2 .u-group-3 {
-  min-height: 296px;
+  min-height: 270px;
   height: auto;
   transition-duration: 0.5s;
   box-shadow: -2px 0 0 0px rgba(0,0,0,0);
   text-shadow: 0px 0px 0px rgba(0,0,0,0);
   width: 270px;
-  margin: -296px 290px 0 auto;
+  margin: -270px 290px 0 auto;
 }
 
 .u-section-2 .u-container-layout-3 {
@@ -187,17 +200,24 @@
 
 .u-section-2 .u-text-6 {
   text-decoration: underline !important;
-  margin: 10px 10px 0;
+  margin: 10px 10px 0 25px;
+}
+
+.u-section-2 .u-shape-3 {
+  width: 250px;
+  height: 250px;
+  transition-duration: 0.5s;
+  margin: -214px auto 0;
 }
 
 .u-section-2 .u-group-4 {
-  min-height: 297px;
+  min-height: 270px;
   height: auto;
   transition-duration: 0.5s;
   box-shadow: -2px 0 0 0px rgba(0,0,0,0);
   text-shadow: 0px 0px 0px rgba(0,0,0,0);
   width: 270px;
-  margin: -296px 0 55px auto;
+  margin: -270px 0 55px auto;
 }
 
 .u-section-2 .u-container-layout-4 {
@@ -212,7 +232,14 @@
 
 .u-section-2 .u-text-7 {
   text-decoration: underline !important;
-  margin: 10px 10px 0;
+  margin: 10px 10px 0 25px;
+}
+
+.u-section-2 .u-shape-4 {
+  width: 250px;
+  height: 250px;
+  transition-duration: 0.5s;
+  margin: -214px auto 0;
 }
 
 @media (max-width: 1199px) {
@@ -225,6 +252,8 @@
   }
 
   .u-section-2 .u-group-1 {
+    transform: translateX(0px) translateY(0px) scale(1) rotate(0deg);
+    margin-right: 670px;
     height: auto;
   }
 
@@ -252,9 +281,17 @@
   .u-section-2 .u-text-3 {
     margin-right: 0;
   }
+
+  .u-section-2 .u-group-1 {
+    margin-right: 450px;
+  }
 }
 
 @media (max-width: 767px) {
+  .u-section-2 .u-group-1 {
+    margin-right: 270px;
+  }
+
   .u-section-2 .u-group-2 {
     margin-left: 270px;
   }
@@ -265,6 +302,10 @@
 }
 
 @media (max-width: 575px) {
+  .u-section-2 .u-group-1 {
+    margin-right: 70px;
+  }
+
   .u-section-2 .u-group-2 {
     margin-left: 70px;
   }
@@ -272,6 +313,12 @@
   .u-section-2 .u-group-3 {
     margin-right: 70px;
   }
+}
+
+.u-section-2 .u-shape-1,
+.u-section-2 .u-shape-1:before,
+.u-section-2 .u-shape-1 > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, image-zoom, background-size, background-position;
 }
 
 .u-section-2 .u-group-1,
@@ -342,6 +389,12 @@
   transform: rotate(0deg) scale(1) translateX(0px) translateY(0px) !important;
 }
 
+.u-section-2 .u-shape-2,
+.u-section-2 .u-shape-2:before,
+.u-section-2 .u-shape-2 > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, image-zoom, background-size, background-position;
+}
+
 .u-section-2 .u-group-3,
 .u-section-2 .u-group-3:before,
 .u-section-2 .u-group-3 > .u-container-layout:before {
@@ -408,4 +461,23 @@
 
 .u-container-layout.hover .u-section-2 .u-group-4 {
   transform: rotate(0deg) scale(1) translateX(0px) translateY(0px) !important;
+}
+
+.u-section-2 .u-shape-3,
+.u-section-2 .u-shape-3:before,
+.u-section-2 .u-shape-3 > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, image-zoom, background-size, background-position;
+}
+
+.u-section-2 .u-shape-4,
+.u-section-2 .u-shape-4:before,
+.u-section-2 .u-shape-4 > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, image-zoom, background-size, background-position;
+}.box-scale {
+  width: 100px;
+  height: 100px;
+  transition: transform 0.3s; /* Add a transition to the transform property */
+}
+.box-scale:hover {
+  transform: scale(1.05); /* Scale the element to 120% on hover */
 }
