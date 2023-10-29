@@ -345,6 +345,7 @@
 
 .u-section-3 .u-text-2 {
   font-size: 1.5rem;
+  font-weight: normal;
   margin: 30px 13px 0 0;
 }
 
@@ -353,6 +354,13 @@
   font-weight: 400;
   font-style: italic;
   margin: 13px 13px 0 0;
+}
+
+.u-section-3 .u-text-4 {
+  font-size: 1rem;
+  font-weight: 400;
+  font-style: italic;
+  margin: 10px 12px 0 0;
 }
 
 .u-section-3 .u-list-item-2 {
@@ -369,18 +377,26 @@
   margin: 0 13px 0 0;
 }
 
-.u-section-3 .u-text-4 {
+.u-section-3 .u-text-5 {
   font-size: 1.5rem;
+  font-weight: normal;
   margin: 30px 13px 0 0;
 }
 
-.u-section-3 .u-text-5 {
+.u-section-3 .u-text-6 {
   font-size: 1rem;
   font-weight: 400;
   font-style: italic;
   letter-spacing: normal;
   text-transform: none;
   margin: 13px 13px 0 0;
+}
+
+.u-section-3 .u-text-7 {
+  font-size: 1rem;
+  font-weight: 400;
+  font-style: italic;
+  margin: 10px 12px 0 0;
 }
 
 .u-section-3 .u-list-item-3 {
@@ -397,18 +413,25 @@
   margin: 0 13px 0 0;
 }
 
-.u-section-3 .u-text-6 {
+.u-section-3 .u-text-8 {
   font-size: 1.5rem;
   margin: 30px 13px 0 0;
 }
 
-.u-section-3 .u-text-7 {
+.u-section-3 .u-text-9 {
   font-size: 1rem;
   font-weight: 400;
   font-style: italic;
   letter-spacing: normal;
   text-transform: none;
   margin: 13px 13px 0 0;
+}
+
+.u-section-3 .u-text-10 {
+  font-size: 1rem;
+  font-weight: 400;
+  font-style: italic;
+  margin: 10px 12px 0 0;
 }
 
 .u-section-3 .u-list-item-4 {
@@ -425,20 +448,28 @@
   margin: 0 13px 0 0;
 }
 
-.u-section-3 .u-text-8 {
+.u-section-3 .u-text-11 {
   text-transform: none;
   letter-spacing: normal;
   font-size: 1.5rem;
+  font-weight: normal;
   margin: 30px 13px 0 0;
 }
 
-.u-section-3 .u-text-9 {
+.u-section-3 .u-text-12 {
   font-size: 1rem;
   font-weight: 400;
   font-style: italic;
   letter-spacing: normal;
   text-transform: none;
   margin: 13px 13px 0 0;
+}
+
+.u-section-3 .u-text-13 {
+  font-size: 1rem;
+  font-weight: 400;
+  font-style: italic;
+  margin: 10px 12px 0 0;
 }
 
 .u-section-3 .u-list-item-5 {
@@ -455,18 +486,26 @@
   margin: 0 13px 0 0;
 }
 
-.u-section-3 .u-text-10 {
+.u-section-3 .u-text-14 {
   font-size: 1.5rem;
+  font-weight: normal;
   margin: 30px 13px 0 0;
 }
 
-.u-section-3 .u-text-11 {
+.u-section-3 .u-text-15 {
   font-size: 1rem;
   font-weight: 400;
   font-style: italic;
   letter-spacing: normal;
   text-transform: none;
   margin: 13px 13px 0 0;
+}
+
+.u-section-3 .u-text-16 {
+  font-size: 1rem;
+  font-weight: 400;
+  font-style: italic;
+  margin: 10px 12px 0 0;
 }
 
 .u-section-3 .u-list-item-6 {
@@ -483,18 +522,26 @@
   margin: 0 13px 0 0;
 }
 
-.u-section-3 .u-text-12 {
+.u-section-3 .u-text-17 {
   font-size: 1.5rem;
+  font-weight: normal;
   margin: 30px 13px 0 0;
 }
 
-.u-section-3 .u-text-13 {
+.u-section-3 .u-text-18 {
   font-size: 1rem;
   font-weight: 400;
   font-style: italic;
   letter-spacing: normal;
   text-transform: none;
   margin: 13px 13px 0 0;
+}
+
+.u-section-3 .u-text-19 {
+  font-size: 1rem;
+  font-weight: 400;
+  font-style: italic;
+  margin: 10px 12px 0 0;
 }
 
 .u-section-3 .u-list-item-7 {
@@ -511,18 +558,26 @@
   margin: 0 13px 0 0;
 }
 
-.u-section-3 .u-text-14 {
+.u-section-3 .u-text-20 {
   font-size: 1.5rem;
+  font-weight: normal;
   margin: 30px 13px 0 0;
 }
 
-.u-section-3 .u-text-15 {
+.u-section-3 .u-text-21 {
   font-size: 1rem;
   font-weight: 400;
   font-style: italic;
   letter-spacing: normal;
   text-transform: none;
   margin: 13px 13px 0 0;
+}
+
+.u-section-3 .u-text-22 {
+  font-size: 1rem;
+  font-weight: 400;
+  font-style: italic;
+  margin: 10px 12px 0 0;
 }
 
 .u-section-3 .u-list-item-8 {
@@ -539,18 +594,26 @@
   margin: 0 13px 0 0;
 }
 
-.u-section-3 .u-text-16 {
+.u-section-3 .u-text-23 {
   font-size: 1.5rem;
+  font-weight: normal;
   margin: 30px 13px 0 0;
 }
 
-.u-section-3 .u-text-17 {
+.u-section-3 .u-text-24 {
   font-size: 1rem;
   font-weight: 400;
   font-style: italic;
   letter-spacing: normal;
   text-transform: none;
   margin: 13px 13px 0 0;
+}
+
+.u-section-3 .u-text-25 {
+  font-size: 1rem;
+  font-weight: 400;
+  font-style: italic;
+  margin: 10px 12px 0 0;
 }
 
 @media (max-width: 1199px) {
@@ -583,11 +646,14 @@
   }
 
   .u-section-3 .u-text-2 {
-    font-weight: normal;
     margin-right: 0;
   }
 
   .u-section-3 .u-text-3 {
+    margin-right: 0;
+  }
+
+  .u-section-3 .u-text-4 {
     margin-right: 0;
   }
 
@@ -607,12 +673,15 @@
     --animation-custom_in-scale: 0.3;
   }
 
-  .u-section-3 .u-text-4 {
-    font-weight: normal;
+  .u-section-3 .u-text-5 {
     margin-right: 0;
   }
 
-  .u-section-3 .u-text-5 {
+  .u-section-3 .u-text-6 {
+    margin-right: 0;
+  }
+
+  .u-section-3 .u-text-7 {
     margin-right: 0;
   }
 
@@ -632,11 +701,15 @@
     --animation-custom_in-scale: 0.3;
   }
 
-  .u-section-3 .u-text-6 {
+  .u-section-3 .u-text-8 {
     margin-right: 0;
   }
 
-  .u-section-3 .u-text-7 {
+  .u-section-3 .u-text-9 {
+    margin-right: 0;
+  }
+
+  .u-section-3 .u-text-10 {
     margin-right: 0;
   }
 
@@ -656,12 +729,15 @@
     --animation-custom_in-scale: 0.3;
   }
 
-  .u-section-3 .u-text-8 {
-    font-weight: normal;
+  .u-section-3 .u-text-11 {
     margin-right: 0;
   }
 
-  .u-section-3 .u-text-9 {
+  .u-section-3 .u-text-12 {
+    margin-right: 0;
+  }
+
+  .u-section-3 .u-text-13 {
     margin-right: 0;
   }
 
@@ -681,12 +757,15 @@
     --animation-custom_in-scale: 0.3;
   }
 
-  .u-section-3 .u-text-10 {
-    font-weight: normal;
+  .u-section-3 .u-text-14 {
     margin-right: 0;
   }
 
-  .u-section-3 .u-text-11 {
+  .u-section-3 .u-text-15 {
+    margin-right: 0;
+  }
+
+  .u-section-3 .u-text-16 {
     margin-right: 0;
   }
 
@@ -706,12 +785,15 @@
     --animation-custom_in-scale: 0.3;
   }
 
-  .u-section-3 .u-text-12 {
-    font-weight: normal;
+  .u-section-3 .u-text-17 {
     margin-right: 0;
   }
 
-  .u-section-3 .u-text-13 {
+  .u-section-3 .u-text-18 {
+    margin-right: 0;
+  }
+
+  .u-section-3 .u-text-19 {
     margin-right: 0;
   }
 
@@ -731,12 +813,15 @@
     --animation-custom_in-scale: 0.3;
   }
 
-  .u-section-3 .u-text-14 {
-    font-weight: normal;
+  .u-section-3 .u-text-20 {
     margin-right: 0;
   }
 
-  .u-section-3 .u-text-15 {
+  .u-section-3 .u-text-21 {
+    margin-right: 0;
+  }
+
+  .u-section-3 .u-text-22 {
     margin-right: 0;
   }
 
@@ -756,12 +841,15 @@
     --animation-custom_in-scale: 0.3;
   }
 
-  .u-section-3 .u-text-16 {
-    font-weight: normal;
+  .u-section-3 .u-text-23 {
     margin-right: 0;
   }
 
-  .u-section-3 .u-text-17 {
+  .u-section-3 .u-text-24 {
+    margin-right: 0;
+  }
+
+  .u-section-3 .u-text-25 {
     margin-right: 0;
   }
 }
@@ -785,21 +873,12 @@
     font-size: 1.125rem;
   }
 
-  .u-section-3 .u-text-4 {
+  .u-section-3 .u-text-5 {
     font-size: 1.875rem;
     margin-top: 20px;
-  }
-
-  .u-section-3 .u-text-5 {
-    font-size: 1.125rem;
   }
 
   .u-section-3 .u-text-6 {
-    font-size: 1.875rem;
-    margin-top: 20px;
-  }
-
-  .u-section-3 .u-text-7 {
     font-size: 1.125rem;
   }
 
@@ -812,21 +891,12 @@
     font-size: 1.125rem;
   }
 
-  .u-section-3 .u-text-10 {
+  .u-section-3 .u-text-11 {
     font-size: 1.875rem;
     margin-top: 20px;
-  }
-
-  .u-section-3 .u-text-11 {
-    font-size: 1.125rem;
   }
 
   .u-section-3 .u-text-12 {
-    font-size: 1.875rem;
-    margin-top: 20px;
-  }
-
-  .u-section-3 .u-text-13 {
     font-size: 1.125rem;
   }
 
@@ -839,12 +909,30 @@
     font-size: 1.125rem;
   }
 
-  .u-section-3 .u-text-16 {
+  .u-section-3 .u-text-17 {
     font-size: 1.875rem;
     margin-top: 20px;
   }
 
-  .u-section-3 .u-text-17 {
+  .u-section-3 .u-text-18 {
+    font-size: 1.125rem;
+  }
+
+  .u-section-3 .u-text-20 {
+    font-size: 1.875rem;
+    margin-top: 20px;
+  }
+
+  .u-section-3 .u-text-21 {
+    font-size: 1.125rem;
+  }
+
+  .u-section-3 .u-text-23 {
+    font-size: 1.875rem;
+    margin-top: 20px;
+  }
+
+  .u-section-3 .u-text-24 {
     font-size: 1.125rem;
   }
 }
@@ -873,7 +961,7 @@
     padding-right: 30px;
   }
 
-  .u-section-3 .u-text-5 {
+  .u-section-3 .u-text-6 {
     font-size: 1.25rem;
   }
 
@@ -882,7 +970,7 @@
     padding-right: 30px;
   }
 
-  .u-section-3 .u-text-7 {
+  .u-section-3 .u-text-9 {
     font-size: 1.25rem;
   }
 
@@ -891,7 +979,7 @@
     padding-right: 30px;
   }
 
-  .u-section-3 .u-text-9 {
+  .u-section-3 .u-text-12 {
     font-size: 1.25rem;
   }
 
@@ -900,7 +988,7 @@
     padding-right: 30px;
   }
 
-  .u-section-3 .u-text-11 {
+  .u-section-3 .u-text-15 {
     font-size: 1.25rem;
   }
 
@@ -909,7 +997,7 @@
     padding-right: 30px;
   }
 
-  .u-section-3 .u-text-13 {
+  .u-section-3 .u-text-18 {
     font-size: 1.25rem;
   }
 
@@ -918,7 +1006,7 @@
     padding-right: 30px;
   }
 
-  .u-section-3 .u-text-15 {
+  .u-section-3 .u-text-21 {
     font-size: 1.25rem;
   }
 
@@ -927,7 +1015,7 @@
     padding-right: 30px;
   }
 
-  .u-section-3 .u-text-17 {
+  .u-section-3 .u-text-24 {
     font-size: 1.25rem;
   }
 }
@@ -1062,6 +1150,7 @@
 
 .u-section-4 .u-text-2 {
   font-size: 1.5rem;
+  font-weight: normal;
   margin: 30px 13px 0 0;
 }
 
@@ -1088,6 +1177,7 @@
 
 .u-section-4 .u-text-4 {
   font-size: 1.5rem;
+  font-weight: normal;
   margin: 30px 13px 0 0;
 }
 
@@ -1146,6 +1236,7 @@
   text-transform: none;
   letter-spacing: normal;
   font-size: 1.5rem;
+  font-weight: normal;
   margin: 30px 13px 0 0;
 }
 
@@ -1174,6 +1265,7 @@
 
 .u-section-4 .u-text-10 {
   font-size: 1.5rem;
+  font-weight: normal;
   margin: 30px 13px 0 0;
 }
 
@@ -1216,7 +1308,6 @@
   }
 
   .u-section-4 .u-text-2 {
-    font-weight: normal;
     margin-right: 0;
   }
 
@@ -1241,7 +1332,6 @@
   }
 
   .u-section-4 .u-text-4 {
-    font-weight: normal;
     margin-right: 0;
   }
 
@@ -1290,7 +1380,6 @@
   }
 
   .u-section-4 .u-text-8 {
-    font-weight: normal;
     margin-right: 0;
   }
 
@@ -1315,7 +1404,6 @@
   }
 
   .u-section-4 .u-text-10 {
-    font-weight: normal;
     margin-right: 0;
   }
 
@@ -1531,6 +1619,7 @@
 
 .u-section-5 .u-text-2 {
   font-size: 1.5rem;
+  font-weight: normal;
   margin: 30px 13px 0 0;
 }
 
@@ -1557,6 +1646,7 @@
 
 .u-section-5 .u-text-4 {
   font-size: 1.5rem;
+  font-weight: normal;
   margin: 30px 13px 0 0;
 }
 
@@ -1622,10 +1712,6 @@
     --animation-custom_in-scale: 0.3;
   }
 
-  .u-section-5 .u-text-2 {
-    font-weight: normal;
-  }
-
   .u-section-5 .u-list-item-2 {
     --animation-custom_in-translate_x: 0px;
     --animation-custom_in-translate_y: 300px;
@@ -1640,10 +1726,6 @@
     --animation-custom_in-opacity: 0;
     --animation-custom_in-rotate: 0deg;
     --animation-custom_in-scale: 0.3;
-  }
-
-  .u-section-5 .u-text-4 {
-    font-weight: normal;
   }
 
   .u-section-5 .u-list-item-3 {
