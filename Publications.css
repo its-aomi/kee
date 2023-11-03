@@ -10,13 +10,14 @@
 .u-section-1 .u-line-1 {
   width: 1213px;
   transform-origin: left center 0px;
-  margin: 6px -37px 25px;
+  margin: 0 -36px 34px;
 }
 
 @media (max-width: 1199px) {
   .u-section-1 .u-line-1 {
     width: 940px;
     margin-right: 0;
+    margin-left: 0;
   }
 }
 
