@@ -41497,7 +41497,7 @@ a.u-link.u-text-hover-grey-90:hover {
 
 .u-header .u-image-1 {
   width: 300px;
-  height: 53px;
+  height: 54px;
   margin: 12px auto 12px 0;
 }
 
@@ -41553,31 +41553,47 @@ a.u-link.u-text-hover-grey-90:hover {
 
 @media (max-width: 1199px) {
   .u-header .u-text-1 {
-    margin-top: -59px;
-    margin-left: 122px;
+    font-size: 1.875rem;
+    width: auto;
+    margin: -56px 0 32px auto;
   }
 }
 
 
+@media (max-width: 991px) {
+  .u-header .u-sheet-2 {
+    min-height: 161px;
+  }
+
+  .u-header .u-text-1 {
+    margin: 20px 15px;
+  }
+}
 
 
-
-
+@media (max-width: 767px) {
+  .u-header .u-text-1 {
+    margin-right: 15px;
+    margin-left: 15px;
+  }
+}
 
 
 @media (max-width: 575px) {
   .u-header .u-sheet-2 {
-    min-height: 201px;
+    min-height: 193px;
   }
 
   .u-header .u-image-2 {
     width: 340px;
     height: 116px;
+    margin-right: 0;
   }
 
   .u-header .u-text-1 {
-    font-size: 1.875rem;
-    margin-left: 77px;
+    font-size: 1.125rem;
+    margin-left: 0;
+    margin-right: 0;
   }
 }
 
@@ -41601,8 +41617,8 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-footer .u-image-2 {
-  width: 248px;
-  height: 44px;
+  width: 300px;
+  height: 54px;
   margin: -37px 0 19px auto;
 }
 
@@ -41623,9 +41639,59 @@ a.u-link.u-text-hover-grey-90:hover {
     margin-top: -37px;
   }
 }
+@media (max-width: 991px) {
+  .u-footer .u-sheet-1 {
+    min-height: 76px;
+  }
 
+  .u-footer .u-image-1 {
+    width: 98px;
+    height: 65px;
+  }
 
+  .u-footer .u-text-1 {
+    width: auto;
+    margin-top: -45px;
+  }
 
+  .u-footer .u-image-2 {
+    width: 233px;
+    height: 41px;
+    margin-top: -33px;
+    margin-right: 0;
+    margin-bottom: 22px;
+  }
+}
+@media (max-width: 767px) {
+  .u-footer .u-image-2 {
+    width: 233px;
+    height: 41px;
+    margin-top: -33px;
+    margin-right: 0;
+  }
+}
+@media (max-width: 575px) {
+  .u-footer .u-sheet-1 {
+    min-height: 128px;
+  }
+
+  .u-footer .u-image-1 {
+    width: 103px;
+    height: 39px;
+    margin-top: 36px;
+  }
+
+  .u-footer .u-text-1 {
+    margin-top: 10px;
+  }
+
+  .u-footer .u-image-2 {
+    width: 128px;
+    height: 22px;
+    margin-top: -66px;
+    margin-bottom: 60px;
+  }
+}
 
  /*begin-variables custom-site-css*/section.u-backlink.u-clearfix.u-grey-80 {
     display: none;
