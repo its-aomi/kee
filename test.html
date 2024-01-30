@@ -1,7 +1,36 @@
-<html>
-<head>test</head>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        iframe {
+            width: 100vw;
+            height: 80vh;
+        }
+    </style>
+</head>
 <body>
-<p> the below page is in iframe </p>
-<iframe src="https://web-flasher.vercel.app/"></iframe>
+    <p> the below page is in iframe </p>
+    <iframe id="myIframe" src="https://web-flasher.vercel.app/"></iframe>
+
+    <script>
+        // Handle postMessage from iframe
+        window.addEventListener('message', function (event) {
+            if (event.origin === 'https://web-flasher.vercel.app') {
+                // Handle the data received from the iframe
+                console.log(event.data);
+            }
+        });
+
+        // Request permission and send it to the iframe
+        function requestPermission() {
+            // ... code to request permission
+
+            // Send permission status to the iframe
+            document.getElementById('myIframe').contentWindow.postMessage('PermissionGranted', 'https://web-flasher.vercel.app');
+        }
+    </script>
 </body>
 </html>
